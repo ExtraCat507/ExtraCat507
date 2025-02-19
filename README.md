@@ -11,5 +11,6 @@ Java,Python,C++
 - Perm✈️Saint-Petersburg
 - Future business owner
 - Runner🏃
+- School №146 graduate
 
 Concact me: https://t.me/Extra_Cat_507
