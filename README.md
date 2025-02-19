@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome everyone
+_Little note for cute cats wondering on who i am.._
 
-<!--
-**ExtraCat507/ExtraCat507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lev, ITMO CSE 28'
+Application software
 
-Here are some ideas to get you started:
+Java,Python,C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java enjoyer🍵
+- Adv. Math (Карпов one love)
+- Perm✈️Saint-Petersburg
+- Future business owner
+- Runner🏃
+
+Concact me: https://t.me/Extra_Cat_507
